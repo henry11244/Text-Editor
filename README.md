@@ -6,10 +6,10 @@
 <div align="center">
 
 
-<h3 align="center">Blogging Application</h3>
+<h3 align="center">Text Editor</h3>
 
   <p align="center">
-    Application for blogging
+    Application for creating and editing text content
     <br />
   </p>
 </div>
